@@ -1,1 +1,6 @@
-{}
+{
+  "status": {
+    "statusCode": "200",
+    "description": "Login successful"
+  }
+}
