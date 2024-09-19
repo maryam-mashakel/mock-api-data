@@ -1,5 +1,6 @@
 {
-  "userName": "exampleUser",
-  "password": "examplePassword",
-  "flag": 1
+  "status": {
+    "statusCode": "200",
+    "description": "Login successful"
+  }
 }
